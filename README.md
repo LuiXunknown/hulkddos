@@ -33,7 +33,7 @@ python3 hulk.py
 ### Report a Problem? Pm me on
 <b>• [Whatsapp](https://bit.ly/3GQHTp2)</b>
 <br>
-<b>• [Telegram](https://bit.ly/3J04GRd)</b>
+<b>• [Telegram](https://t.me/@wold002)</b>
 </br>
 
 ### Warning⚠️

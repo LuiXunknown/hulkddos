@@ -28,7 +28,7 @@ python2 hulkV2.py http://mydomain.com
 ```
 ***Or***
 ```
-python3 hulk.py 
+python2 hulk.py 
 ```
 ### Report a Problem? Pm me on
 <b>• [Whatsapp](https://bit.ly/3GQHTp2)</b>

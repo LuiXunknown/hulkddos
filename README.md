@@ -30,6 +30,9 @@ python2 hulkV2.py http://mydomain.com
 ```
 python2 hulk.py 
 ```
+### Where to get free proxy?
+Join my [Channel](https://t.me/hexhacking) to get free proxy!
+
 ### Report a Problem? Pm me on
 <b>• [Whatsapp](https://bit.ly/3GQHTp2)</b>
 <br>
